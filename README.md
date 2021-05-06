@@ -1,6 +1,6 @@
 # Graficador de Antenas 
 
-_Grafica el patrón de radiación de antenas tipo Broadside y Endfire.
+Grafica el patrón de radiación de antenas tipo Broadside y Endfire.
 
 ### Pre-requisitos 📋
 
