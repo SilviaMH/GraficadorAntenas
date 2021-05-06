@@ -4,7 +4,7 @@ Grafica el patrón de radiación de antenas tipo Broadside y Endfire.
 
 ### Pre-requisitos 📋
 
-_NET framework
+* NET framework
 
 ## Construido con 🛠️
 
